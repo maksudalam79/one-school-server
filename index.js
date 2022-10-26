@@ -12,9 +12,13 @@ app.get('/',(req,res)=>{
 app.get('/coursesCategory',(req,res)=>{
     res.send(coursesCategory)
 })
-app.get('/deatiles',(req,res)=>{
-    res.send(deatiles)
+app.get('/courses/:id',(req,res)=>{
+    const id=req.params.id
+    const category=deatiles.find(cate=>cate.category_id==id)
+    res.send(category)
 })
+
+
 
 
 app.listen(port,()=>{

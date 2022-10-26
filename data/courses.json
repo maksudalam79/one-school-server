@@ -1,27 +1,34 @@
 [
     {
       "id": "01",
-      "name": "Js Programming Language"
+      "name": "Js Programming Language",
+      "image_url": "https://quocent.com/QUOCENT-CMS/userfiles/StaticBanner/1529923467_Javascript.png"
     },
     {
       "id": "02",
-      "name": "Logo Design Courses"
+      "name": "Logo Design Courses",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr99aE3cM2rZTyi0toXHRCSKdckTD-dv8OMJde3zbEwEAOMDEyI9GfyNkwrP6JI7cIoN4&usqp=CAU"
     },
     {
       "id": "03",
-      "name": "Study Law Physics"
+      "name": "Study Law Physics",
+      "image_url": "https://www.aakash.ac.in/blog/wp-content/uploads/2022/04/Blog-Image-38.jpg"
+
     },
     {
       "id": "04",
-      "name": "Python Programming"
+      "name": "Python Programming",
+      "image_url": "https://ourcodeworld.com/public-media/articles/articleocw-5c6632dd1fe9f.jpg"
     },
     {
       "id": "05",
-      "name": "Machine Learning"
+      "name": "Machine Learning",
+      "image_url": "https://imageio.forbes.com/specials-images/dam/imageserve/966248982/960x0.jpg?format=jpg&width=960"
     },
     {
       "id": "06",
-      "name": "Computer Science"
+      "name": "Computer Science",
+      "image_url": "https://images2.content-hci.com/commimg/myhotcourses/blog/post/myhc_89683.jpg"
     }
     
   ]
